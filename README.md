@@ -52,21 +52,60 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com/?user=baoduong17&theme=dark&hide_border=true" alt="GitHub Streak" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=baoduong17&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=baoduong17&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=baoduong17&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
     </a>
   </div>
   <br>
+  
+  <div align=center>
+    <picture>
+      <source
+        srcset="https://github-stats-tau-jet.vercel.app/api?username=baoduong17&show_icons=true&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-stats-tau-jet.vercel.app/api?username=baoduong17&show_icons=true&theme=transparent"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200" align="center"
+           src="https://github-stats-tau-jet.vercel.app/api?username=baoduong17&show_icons=true" />
+    </picture>
 
+    <picture>
+      <source
+        srcset="https://github-stats-tau-jet.vercel.app/api/top-langs?username=baoduong17&layout=compact&langs_count=8&card_width=320&theme=dark"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-stats-tau-jet.vercel.app/api/top-langs?username=baoduong17&layout=compact&langs_count=8&card_width=320&theme=transparent"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img height="200" align="center"
+           src="https://github-stats-tau-jet.vercel.app/api/top-langs?username=baoduong17&layout=compact&langs_count=8&card_width=320" />
+    </picture>
+  </div>
+  <br>
+
+  <div align=center>
+    <a href="https://github.com/baoduong17/find-job-fe">
+      <picture>
+        <source
+          srcset="https://github-stats-tau-jet.vercel.app/api/pin/?username=baoduong17&repo=find-job-fe&theme=dark"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-stats-tau-jet.vercel.app/api/pin/?username=baoduong17&repo=find-job-fe&theme=transparent"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img align="center"
+             src="https://github-stats-tau-jet.vercel.app/api/pin/?username=baoduong17&repo=find-job-fe" />
+      </picture>
+    </a>
+  </div>
+
+  <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=baoduong17&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</p>
 </p>
 
 <hr>
